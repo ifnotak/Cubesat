@@ -1,4 +1,7 @@
 #pragma once
+
+
+
 class COM
 {
 public:
