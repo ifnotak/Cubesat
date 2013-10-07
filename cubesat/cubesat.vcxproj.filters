@@ -38,9 +38,6 @@
     <ClInclude Include="ADC.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="OBC.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
     <ClInclude Include="PAY.h">
       <Filter>Header Files</Filter>
     </ClInclude>
@@ -48,6 +45,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="COM.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="OBC.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
